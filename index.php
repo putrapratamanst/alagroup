@@ -5,7 +5,6 @@
  *
  * @package WordPress
  */
-//test  push ftp
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
