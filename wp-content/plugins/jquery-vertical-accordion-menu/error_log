@@ -1,0 +1,2 @@
+[20-Sep-2016 05:52:55 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nfi/public_html/wp-content/plugins/jquery-vertical-accordion-menu/dcwp_jquery_accordion_widget.php on line 3
+[20-Sep-2016 05:52:57 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nfi/public_html/wp-content/plugins/jquery-vertical-accordion-menu/dcwp_jquery_accordion_widget.php on line 3

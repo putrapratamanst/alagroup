@@ -1,0 +1,7 @@
+[16-Jan-2016 08:11:52 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nfi/public_html/wp-content/themes/decode/index.php on line 14
+[17-Jan-2016 12:08:37 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nfi/public_html/wp-content/themes/decode/index.php on line 14
+[18-Jan-2016 14:45:23 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nfi/public_html/wp-content/themes/decode/index.php on line 14
+[19-Jan-2016 19:19:01 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nfi/public_html/wp-content/themes/decode/index.php on line 14
+[27-Jan-2016 12:21:47 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nfi/public_html/wp-content/themes/decode/index.php on line 14
+[29-Jan-2016 21:10:38 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nfi/public_html/wp-content/themes/decode/index.php on line 14
+[30-Jan-2016 09:54:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nfi/public_html/wp-content/themes/decode/index.php on line 14

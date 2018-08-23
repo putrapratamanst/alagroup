@@ -1,0 +1,2 @@
+[21-Sep-2016 10:02:35 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nfi/public_html/wp-content/plugins/upme/widgets/upme-login-widget.php on line 8
+[21-Sep-2016 10:02:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-content/plugins/upme/widgets/upme-widgets.php on line 3

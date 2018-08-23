@@ -1,0 +1,1 @@
+<?php get_header(); ?>    <!-- CONTENT --><div class="row content">    <div class="ten columns leftcontent">        <h1><?php _e('404 Error', 'ready_review'); ?></h1>        <p><?php _e('Sorry, there is no page with that URL. Perhaps you meant to type something similar?', 'ready_review'); ?></p>    </div>    <!--end of .ten columns (left content) --><?php get_footer(); ?>

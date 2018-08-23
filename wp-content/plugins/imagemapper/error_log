@@ -1,0 +1,2 @@
+[20-Sep-2016 05:52:28 UTC] PHP Fatal error:  Call to undefined function current_user_can() in /home/nfi/public_html/wp-content/plugins/imagemapper/single-imgmap-dialog.php on line 3
+[20-Sep-2016 05:52:32 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/nfi/public_html/wp-content/plugins/imagemapper/single-imgmap.php on line 6

@@ -1,0 +1,146 @@
+[26-Jul-2014 15:01:10 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/class-wp-embed.php on line 20
+[26-Jul-2014 20:58:51 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/nav-menu-template.php on line 16
+[26-Jul-2014 21:13:55 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/functions.php on line 8
+[26-Jul-2014 21:13:55 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/functions.php on line 8
+[26-Jul-2014 21:13:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/functions.php on line 8
+[27-Jul-2014 01:55:34 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss.php on line 19
+[27-Jul-2014 08:18:22 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/class-snoopy.php on line 6
+[27-Jul-2014 11:57:19 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss.php on line 8
+[27-Jul-2014 23:12:52 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/registration-functions.php on line 7
+[28-Jul-2014 00:59:36 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-atom-comments.php on line 8
+[28-Jul-2014 04:12:41 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rdf.php on line 8
+[28-Jul-2014 04:39:06 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[28-Jul-2014 06:23:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/admin-bar.php on line 48
+[28-Jul-2014 06:50:03 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/theme.php on line 671
+[28-Jul-2014 08:03:55 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/comment-template.php on line 1546
+[28-Jul-2014 13:18:57 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/post-formats.php on line 170
+[28-Jul-2014 14:02:42 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[28-Jul-2014 14:02:42 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[28-Jul-2014 14:02:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[28-Jul-2014 15:53:34 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss2.php on line 8
+[28-Jul-2014 16:46:25 UTC] PHP Warning:  require(ABSPATHWPINC/ms-load.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/ms-settings.php on line 14
+[28-Jul-2014 16:46:25 UTC] PHP Warning:  require(ABSPATHWPINC/ms-load.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/ms-settings.php on line 14
+[28-Jul-2014 16:46:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/ms-load.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/ms-settings.php on line 14
+[28-Jul-2014 18:51:07 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/nfi/public_html/wp-includes/media.php on line 769
+[28-Jul-2014 19:49:06 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[28-Jul-2014 19:49:06 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[28-Jul-2014 19:49:06 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[28-Jul-2014 20:44:58 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/nfi/public_html/wp-includes/vars.php on line 23
+[28-Jul-2014 21:44:58 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/category-template.php on line 886
+[28-Jul-2014 23:59:58 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/nfi/public_html/wp-includes/class.wp-scripts.php on line 19
+[29-Jul-2014 00:14:58 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/nfi/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[29-Jul-2014 02:03:57 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/ms-functions.php on line 2064
+[29-Jul-2014 06:28:07 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-feed.php on line 4
+[29-Jul-2014 06:28:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/class-feed.php on line 4
+[29-Jul-2014 06:58:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/general-template.php on line 1608
+[29-Jul-2014 07:58:07 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/nfi/public_html/wp-includes/default-widgets.php on line 14
+[29-Jul-2014 09:28:07 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/shortcodes.php on line 407
+[29-Jul-2014 09:58:07 UTC] PHP Fatal error:  Call to undefined function is_main_site() in /home/nfi/public_html/wp-includes/update.php on line 629
+[29-Jul-2014 10:28:07 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/nfi/public_html/wp-includes/template-loader.php on line 28
+[29-Jul-2014 10:43:07 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/ms-default-constants.php on line 151
+[29-Jul-2014 12:13:07 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/registration.php on line 7
+[29-Jul-2014 12:28:07 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/nfi/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[29-Jul-2014 17:15:56 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss2-comments.php on line 8
+[29-Jul-2014 17:30:55 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/nfi/public_html/wp-includes/class.wp-styles.php on line 19
+[30-Jul-2014 04:41:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/author-template.php on line 459
+[30-Jul-2014 08:05:27 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/taxonomy.php on line 129
+[30-Jul-2014 10:30:05 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-atom.php on line 8
+[30-Jul-2014 10:45:05 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/nfi/public_html/wp-includes/class-wp-image-editor-imagick.php on line 17
+[30-Jul-2014 18:05:21 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/kses.php on line 1422
+[30-Jul-2014 22:27:32 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/default-filters.php on line 17
+[31-Jul-2014 17:48:48 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/theme.php on line 671
+[31-Jul-2014 18:48:48 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/ms-default-filters.php on line 17
+[01-Aug-2014 04:42:44 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/post-template.php on line 1186
+[01-Aug-2014 06:32:00 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/nfi/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[06-Sep-2014 16:07:47 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/canonical.php on line 530
+[29-Sep-2014 01:45:03 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/nfi/public_html/wp-includes/template-loader.php on line 28
+[29-Sep-2014 06:26:01 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss2.php on line 8
+[29-Sep-2014 09:13:44 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[29-Sep-2014 09:13:44 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[29-Sep-2014 09:13:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[30-Sep-2014 00:46:57 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/nfi/public_html/wp-includes/template-loader.php on line 28
+[30-Sep-2014 08:36:13 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss2.php on line 8
+[30-Sep-2014 09:54:03 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[30-Sep-2014 09:54:03 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[30-Sep-2014 09:54:03 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[30-Sep-2014 16:14:27 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-atom-comments.php on line 8
+[30-Sep-2014 16:29:27 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss2-comments.php on line 8
+[02-Oct-2014 08:24:31 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/nav-menu-template.php on line 16
+[03-Oct-2014 18:01:37 UTC] PHP Fatal error:  Class 'WP_Image_Editor' not found in /home/nfi/public_html/wp-includes/class-wp-image-editor-gd.php on line 17
+[03-Oct-2014 19:04:46 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/general-template.php on line 1608
+[03-Oct-2014 19:19:46 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/nfi/public_html/wp-includes/media.php on line 769
+[03-Oct-2014 20:03:43 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/post-formats.php on line 170
+[04-Oct-2014 02:41:51 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/class-wp-embed.php on line 20
+[05-Oct-2014 07:36:17 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/author-template.php on line 459
+[05-Oct-2014 08:06:18 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/comment-template.php on line 1546
+[05-Oct-2014 11:16:13 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/taxonomy.php on line 129
+[05-Oct-2014 16:34:17 UTC] PHP Fatal error:  Class 'IXR_Client' not found in /home/nfi/public_html/wp-includes/class-wp-http-ixr-client.php on line 9
+[05-Oct-2014 17:45:30 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/class-snoopy.php on line 6
+[06-Oct-2014 07:19:13 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/category-template.php on line 886
+[06-Oct-2014 22:21:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/admin-bar.php on line 48
+[07-Oct-2014 03:02:38 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rdf.php on line 8
+[08-Oct-2014 01:44:57 UTC] PHP Fatal error:  Call to undefined function is_admin() in /home/nfi/public_html/wp-includes/vars.php on line 23
+[08-Oct-2014 05:18:07 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss.php on line 19
+[08-Oct-2014 10:48:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/ms-functions.php on line 2064
+[08-Oct-2014 11:18:14 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/functions.php on line 8
+[08-Oct-2014 11:18:14 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/functions.php on line 8
+[08-Oct-2014 11:18:14 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/functions.php on line 8
+[09-Oct-2014 10:23:46 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/theme.php on line 671
+[12-Oct-2014 13:24:17 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/registration.php on line 7
+[14-Oct-2014 23:26:12 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/post-template.php on line 1186
+[20-Oct-2014 03:40:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/kses.php on line 1422
+[21-Oct-2014 13:04:03 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/theme.php on line 671
+[23-Oct-2014 15:01:58 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/nfi/public_html/wp-includes/class.wp-scripts.php on line 19
+[26-Oct-2014 17:36:15 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[28-Oct-2014 22:52:32 UTC] PHP Fatal error:  Class 'IXR_Server' not found in /home/nfi/public_html/wp-includes/class-wp-xmlrpc-server.php on line 23
+[29-Oct-2014 15:43:51 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/shortcodes.php on line 407
+[31-Oct-2014 07:51:45 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/default-filters.php on line 17
+[08-Nov-2014 13:28:22 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-atom.php on line 8
+[11-Nov-2014 05:39:15 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/nfi/public_html/wp-includes/class.wp-styles.php on line 19
+[11-Nov-2014 12:51:22 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/ms-default-filters.php on line 17
+[15-Nov-2014 23:36:53 UTC] PHP Warning:  require_once(ABSPATHWPINC/class-simplepie.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-feed.php on line 4
+[15-Nov-2014 23:36:53 UTC] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHWPINC/class-simplepie.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/class-feed.php on line 4
+[23-Nov-2014 06:06:54 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-atom.php on line 8
+[26-Nov-2014 04:33:04 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/default-filters.php on line 17
+[01-Dec-2014 05:23:14 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-atom.php on line 8
+[02-Dec-2014 05:37:38 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss.php on line 8
+[03-Dec-2014 11:59:28 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss2-comments.php on line 8
+[05-Dec-2014 15:03:26 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/registration-functions.php on line 7
+[06-Dec-2014 05:04:57 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[06-Dec-2014 05:04:57 UTC] PHP Warning:  require(ABSPATHWPINC/SimplePie/Misc.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[06-Dec-2014 05:04:57 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/SimplePie/Misc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/class-simplepie.php on line 5
+[06-Dec-2014 11:25:25 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-rss2.php on line 8
+[06-Dec-2014 20:31:11 UTC] PHP Fatal error:  Call to undefined function feed_content_type() in /home/nfi/public_html/wp-includes/feed-atom-comments.php on line 8
+[06-Dec-2014 23:54:49 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/author-template.php on line 459
+[07-Dec-2014 18:49:25 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[07-Dec-2014 18:49:25 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[07-Dec-2014 18:49:25 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[09-Dec-2014 11:08:36 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/comment-template.php on line 1546
+[15-Dec-2014 14:18:53 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/canonical.php on line 530
+[15-Dec-2014 15:58:54 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-includes/post-formats.php on line 170
+[18-Dec-2014 13:11:11 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/general-template.php on line 1608
+[22-Dec-2014 16:33:23 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/theme.php on line 671
+[24-Dec-2014 22:06:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/admin-bar.php on line 48
+[27-Dec-2014 21:36:14 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/ms-default-constants.php on line 151
+[16-Mar-2015 16:46:29 UTC] PHP Fatal error:  Call to undefined function add_shortcode() in /home/nfi/public_html/wp-includes/media.php on line 769
+[18-Mar-2015 16:25:18 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[18-Mar-2015 16:25:18 UTC] PHP Warning:  require(ABSPATHWPINC/class.wp-dependencies.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[18-Mar-2015 16:25:18 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class.wp-dependencies.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/script-loader.php on line 25
+[11-Apr-2015 11:19:32 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[16-Jun-2015 22:22:52 UTC] PHP Fatal error:  Class 'WP_Dependencies' not found in /home/nfi/public_html/wp-includes/class.wp-scripts.php on line 19
+[01-Aug-2015 18:58:25 UTC] PHP Fatal error:  Class 'Walker' not found in /home/nfi/public_html/wp-includes/nav-menu-template.php on line 16
+[11-Nov-2015 20:58:28 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-includes/kses.php on line 1614
+[11-Aug-2016 00:31:20 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[15-Aug-2016 06:35:33 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[15-Aug-2016 09:54:27 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[20-Sep-2016 05:39:50 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[20-Sep-2016 05:40:36 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[20-Sep-2016 06:36:39 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[21-Sep-2016 07:46:33 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[08-Jan-2017 23:58:26 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/functions.php on line 8
+[08-Jan-2017 23:58:26 UTC] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/nfi/public_html/wp-includes/functions.php on line 8
+[08-Jan-2017 23:58:26 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/nfi/public_html/wp-includes/functions.php on line 8
+[17-Jan-2017 22:54:21 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/registration-functions.php on line 7
+[10-Mar-2017 03:37:44 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[10-Mar-2017 03:37:45 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/rss-functions.php on line 8
+[22-Oct-2017 00:24:43 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/nfi/public_html/wp-includes/registration-functions.php on line 7

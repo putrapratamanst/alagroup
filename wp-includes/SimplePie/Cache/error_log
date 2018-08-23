@@ -1,0 +1,9 @@
+[14-Aug-2014 04:32:19 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[16-Aug-2014 08:12:25 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[16-Aug-2014 12:37:19 UTC] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[16-Aug-2014 16:22:04 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[17-Aug-2014 03:49:41 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[18-Aug-2014 20:45:31 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[19-Aug-2014 10:02:09 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[20-Oct-2014 05:55:47 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[15-Mar-2015 21:04:34 UTC] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/nfi/public_html/wp-includes/SimplePie/Cache/DB.php on line 52

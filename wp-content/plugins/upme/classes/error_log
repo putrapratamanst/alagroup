@@ -1,0 +1,1 @@
+[21-Sep-2016 10:04:38 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/nfi/public_html/wp-content/plugins/upme/classes/class-upme-register.php on line 6

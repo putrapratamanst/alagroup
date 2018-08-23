@@ -1,0 +1,1 @@
+[21-Sep-2016 10:04:54 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/nfi/public_html/wp-content/plugins/upme/function/functions.php on line 686
