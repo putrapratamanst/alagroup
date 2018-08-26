@@ -9,7 +9,7 @@ allow from all
 order deny,allow
 deny from all
 </Limit>
-AuthName portal-nutrifood.epizy.coms
+AuthName portal-nutrifood.epizy.com
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
